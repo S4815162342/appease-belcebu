@@ -2,7 +2,9 @@ cabal-version:      2.4
 name:               belcebu
 version:            0.1.0.0
 synopsis:           Keep Belcebú, the devil's acolyte cat, appeased.
-license:            NONE
+license:            MIT
+license-file:       LICENSE
+homepage:           https://github.com/S4815162342/appease-belcebu
 build-type:         Simple
 
 executable belcebu
